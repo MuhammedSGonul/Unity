@@ -1,5 +1,5 @@
 ## Fat 2 Target
-This game is my last created hyper-casual type game 😋, but some codes spaghetti.
+This game is my last created and published hyper-casual type game 😋, but some codes spaghetti.
 
 If you want to check it out on Google Play, you can find it [here](https://play.google.com/store/apps/details?id=com.MantarStudios.Fat2Target).
 
