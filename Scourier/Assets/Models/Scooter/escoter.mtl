@@ -1,0 +1,8 @@
+# Made in Blockbench 4.2.5
+newmtl m_0
+map_Kd escoter.png 
+newmtl m_1
+map_Kd escoter_lights.png 
+newmtl m_2
+map_Kd escoter_lights_r_lihtsa.png 
+newmtl none
